@@ -8,7 +8,7 @@ layout: page
 
 Here is **Heng Cao (操亨)**.
 
-I am a postdoctoral fellow majoring in **CO2 photoreduction** at University of Science and Technology of China. Currently, I am working as a research assistant in the **IACTIP Lab** (Provincial Key), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].
+I am a postdoctoral fellow majoring in **CO<sub>2</sub> photoreduction** at University of Science and Technology of China. Currently, I am working as a research assistant in the **IACTIP Lab** (Provincial Key), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].
 
 <br>
 
@@ -24,9 +24,9 @@ I am a postdoctoral fellow majoring in **CO2 photoreduction** at University of S
 
 ## Research Interests
 
-- CO2 photoreduction
-- Synchrontron based Charateristic techs
-- CH4 photooxidation
+- CO<sub>2</sub> photoreduction
+- Synchrontron Radiation based Charaterizations
+- CH<sub>4</sub> photooxidation
 
 My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
