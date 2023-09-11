@@ -4,11 +4,11 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 11st Sep 2023&nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
+Lastest Update: 11st Sep 2023&nbsp; 
 
 ## Peer-reviewed Papers
 
-- [Construction of atomically dispersed Cu sites and S vacancies on CdS for enhanced photocatalytic CO<sub>2</sub> reduction](https://pubs.rsc.org/en/content/articlelanding/2021/TA/D1TA03615G#!divAbstract)<br>**Heng Cao**, Jiawei Xue, Zhiyu Wang, Jingjing Dong, Wenjie Li, Ruyang Wang, Song Sun, Chen Gao, Yisheng Tan, Xiaodi Zhu，Jun Bao<br> <i>J. Mater. Chem. A</i>, <b>2021</b>, 9(30): 16339-16344.<br>
+- [Construction of atomically dispersed Cu sites and S vacancies on CdS for enhanced photocatalytic CO<sub>2</sub> reduction](https://pubs.rsc.org/en/content/articlelanding/2021/TA/D1TA03615G#!divAbstract)<br>**Heng Cao**, Jiawei Xue, Zhiyu Wang, Jingjing Dong, Wenjie Li, Ruyang Wang, Song Sun, Chen Gao, Yisheng Tan, Xiaodi Zhu, Jun Bao<br> <i>J. Mater. Chem. A</i>, <b>2021</b>, 9(30): 16339-16344.<br>
 
 <img src="images/2.jpg" class="floatpic" width="1200" height="350">
 
@@ -18,5 +18,6 @@ Lastest Update: 11st Sep 2023&nbsp; [中文版本 (Chinese Version)](https://cai
 <img src="images/1.jpg" class="floatpic" width="700" height="500">
 </div>
 
+## Contributed Papers
 
 
