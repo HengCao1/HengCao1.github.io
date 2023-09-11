@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="images/HengCao.jpg" class="floatpic" width="300" height="480">
+<img src="images/HengCao.jpg" class="floatpic" width="330" height="480">
 
 Here is **Heng Cao (操亨)**.
 
