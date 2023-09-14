@@ -24,7 +24,7 @@ Lastest Update: 11st Sep 2023&nbsp;
 
 ## Contributed Papers
 
-1. [Directing in-situ self-optimization of single-atom catalysts for improved oxygen evolution](http://dx.doi.org/10.1016/j.jechem.2022.12.051)<br>Peiyu Ma, Chen Feng, Huihuang Chen, Jiawei Xue, Xinlong Ma, **Heng Cao**, Dongdi Wang, Ming Zuo, Ruyang Wang, Xilan Ding, Shiming Zhou, Zhirong Zhang, Jie Zeng, Jun Bao<br> <i>Journal of Energy Chemistry</i>, <b>2023</b>, 80: 284-290.<br>
+1. [Directing in-situ self-optimization of single-atom catalysts for improved oxygen evolution](http://dx.doi.org/10.1016/j.jechem.2022.12.051)<br>Peiyu Ma#, Chen Feng#, Huihuang Chen, Jiawei Xue, Xinlong Ma, **Heng Cao**, Dongdi Wang, Ming Zuo, Ruyang Wang, Xilan Ding, Shiming Zhou, Zhirong Zhang, Jie Zeng, Jun Bao<br> <i>Journal of Energy Chemistry</i>, <b>2023</b>, 80: 284-290.<br>
 
 2. Remote Synergy between Heterogeneous Single Atoms and Clusters for Enhanced Oxygen Evolution<br>
 Xilan Ding#, Chuanyi Jia#, Peiyu Ma#, Huihuang Chen, Jiawei Xue, Dongdi Wang, Ruyang Wang, **Heng Cao**, Ming Zuo, Shiming Zhou, Zhirong Zhang*, Jie Zeng*, Jun Bao*<br>
