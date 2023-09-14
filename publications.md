@@ -8,7 +8,9 @@ Lastest Update: 11st Sep 2023&nbsp;
 
 ## Papers
 
-- [Construction of atomically dispersed Cu sites and S vacancies on CdS for enhanced photocatalytic CO<sub>2</sub> reduction](https://pubs.rsc.org/en/content/articlelanding/2021/TA/D1TA03615G#!divAbstract)<br>**Heng Cao**, Jiawei Xue, Zhiyu Wang, Jingjing Dong, Wenjie Li, Ruyang Wang, Song Sun, Chen Gao, Yisheng Tan, Xiaodi Zhu, Jun Bao<br> <i>J. Mater. Chem. A</i>, <b>2021</b>, 9(30): 16339-16344.<br>
+1. Construction of atomically dispersed Cu sites and S vacancies on CdS for enhanced photocatalytic CO<sub>2</sub> reduction<br>
+**Heng Cao**, Jiawei Xue, Zhiyu Wang, Jingjing Dong, Wenjie Li, Ruyang Wang, Song Sun, Chen Gao, Yisheng Tan, Xiaodi Zhu, Jun Bao<br>
+  [<i>J. Mater. Chem. A</i>, <b>2021</b>, 9(30): 16339-16344.](https://pubs.rsc.org/en/content/articlelanding/2021/TA/D1TA03615G#!divAbstract)<br>
 
 <div align=center>
 <img src="images/2.jpg" class="floatpic" width="500" height="175">
@@ -16,7 +18,9 @@ Lastest Update: 11st Sep 2023&nbsp;
 
 
 
-- [Unpaired electron engineering enables efficient and selective photocatalytic CO<sub>2</sub> Reduction to CH<sub>4</sub>.](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.2c01983)<br>**Heng Cao**, Shenlong Jiang, Jiawei Xue, Xiaodi Zhu, Qun Zhang, and Jun Bao.<br><i>J. Phys. Chem. Lett.</i>, <b>2022</b>, 13(36): 8397-8402.<br>
+2. Unpaired electron engineering enables efficient and selective photocatalytic CO<sub>2</sub> Reduction to CH<sub>4</sub><br>
+**Heng Cao**, Shenlong Jiang, Jiawei Xue, Xiaodi Zhu, Qun Zhang, and Jun Bao<br>
+[<i>J. Phys. Chem. Lett.</i>, <b>2022</b>, 13(36): 8397-8402.](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.2c01983)<br>
 
 <div align=center>
 <img src="images/1.jpg" class="floatpic" width="350" height="250">
@@ -24,15 +28,15 @@ Lastest Update: 11st Sep 2023&nbsp;
 
 ## Contributed Papers
 
-1. [Directing in-situ self-optimization of single-atom catalysts for improved oxygen evolution](http://dx.doi.org/10.1016/j.jechem.2022.12.051)<br>Peiyu Ma#, Chen Feng#, Huihuang Chen, Jiawei Xue, Xinlong Ma, **Heng Cao**, Dongdi Wang, Ming Zuo, Ruyang Wang, Xilan Ding, Shiming Zhou, Zhirong Zhang, Jie Zeng, Jun Bao<br> <i>Journal of Energy Chemistry</i>, <b>2023</b>, 80: 284-290.<br>
+1. Directing in-situ self-optimization of single-atom catalysts for improved oxygen evolution<br>Peiyu Ma#, Chen Feng#, Huihuang Chen, Jiawei Xue, Xinlong Ma, **Heng Cao**, Dongdi Wang, Ming Zuo, Ruyang Wang, Xilan Ding, Shiming Zhou, Zhirong Zhang, Jie Zeng, Jun Bao<br> [<i>Journal of Energy Chemistry</i>, <b>2023</b>, 80: 284-290.](http://dx.doi.org/10.1016/j.jechem.2022.12.051)<br>
 
 2. Remote Synergy between Heterogeneous Single Atoms and Clusters for Enhanced Oxygen Evolution<br>
 Xilan Ding#, Chuanyi Jia#, Peiyu Ma#, Huihuang Chen, Jiawei Xue, Dongdi Wang, Ruyang Wang, **Heng Cao**, Ming Zuo, Shiming Zhou, Zhirong Zhang*, Jie Zeng*, Jun Bao*<br>
-<i>Nano Letter</i>, **2023**, 23(8): 3309-3316.<br>
+[<i>Nano Letter</i>, **2023**, 23(8): 3309-3316.](https://doi.org/10.1021/acs.nanolett.3c00228)<br>
 
 3. Neighboring cationic vacancy assisted adsorption optimization on single-atom sites for improved oxygen Evolution<br>
 Dongdi Wang, Jiawei Xue, Xilan Ding, Jie Wei, Chen Feng, Ruyang Wang, Peiyu Ma, Sicong Wang, **Heng Cao**, Jingyan Wang, Ming Zuo, Shiming Zhou, Zhirong Zhang, Jie Zeng, Jun Bao <br>
-<i>ACS Catalysis</i>, **2022**, 12(19): 12458-12468.<br>
+[<i>ACS Catalysis</i>, **2022**, 12(19): 12458-12468.](10.1021/acscatal.2c03476)<br>
 
 4. Efficient exciton dissociation through the edge interfacial state in metal halide perovskite-based photocatalysts<br>
 Jiawei Xue,# Shenlong Jiang,# Zhiyu Wang, Zhiyong Jiang, **Heng Cao**, Xiaodi Zhu, Qun Zhang,* Yi Luo, Jun Bao*<br>
