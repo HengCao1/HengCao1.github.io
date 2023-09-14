@@ -13,14 +13,8 @@ owner:
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: HengCaoNSRL
   ORCID: https://orcid.org/my-orcid?orcid=0000-0002-7398-1511
-  ORCID: https://orcid.org/my-orcid?orcid=0000-0002-7398-1511
   Researcher ID: https://www.webofscience.com/wos/author/record/HMD-3447-2023
   scholar: https://scholar.google.com/citations?hl=zh-CN&user=uvOmiS0AAAAJ
-  # instagram: 
-  # lastfm:
-  # tumblr:
-  # For Google Authorship https://plus.google.com/authorship
-  # google_plus:
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
@@ -72,9 +66,9 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: hengcao
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
-# Latest update in 2023/08/28 by Hanlin Cai.
+# Latest update in 2023/09/14 by Heng Cao.
