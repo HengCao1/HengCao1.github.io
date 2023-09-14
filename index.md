@@ -23,12 +23,11 @@ I am a postdoctoral fellow majoring in **CO<sub>2</sub> photoreduction** at Univ
 
 ## Research Interests
 
-- CO<sub>2</sub> photoreduction
+- Active sites modulation
+- CO<sub>2</sub> photoreduction CH<sub>4</sub> photooxidation
 - Synchrontron Radiation based Charaterizations
-- CH<sub>4</sub> photooxidation
 
-My current research focuses on photocatalytic conversion of warm house gas. My interests are on the **design of high performance materials** and its applications in **CO<sub>2</sub> photoreduction and CH<sub>4</sub> photooxidation**. Besides, the corresponding mechanism are investigated by advanced charaterizations, especially Synchrontron Radiation based and Free Electron Laser based techonologies.
-<br>
+My current research focuses on the **mechanism of how active sites work** in the reaction of **CO<sub>2</sub> photoreduction** or **CH<sub>4</sub> photooxidation** via advanced charaterizations, especially Synchrontron Radiation based (XAS, SEPES, DRIFTS, SVUV-PIMS) and Free Electron Laser based (SFG, nano-IR) techonologies. <br>
 
 ---
 
