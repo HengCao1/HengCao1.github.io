@@ -1,7 +1,6 @@
 ---
 layout: page
 ---
-<body style="font-family:Verdana">
 # About Me
 
 <img src="images/HengCao.jpg" class="floatpic" width="330" height="480">
