@@ -20,7 +20,6 @@ Lastest Update: 14th Sep 2023&nbsp;
 
 <div align=center>
 <img src="images/1.jpg" class="floatpic" width="350" height="250">
-</div>
 
 
 -  Construction of atomically dispersed Cu sites and S vacancies on CdS for enhanced photocatalytic CO<sub>2</sub> reduction<br>
@@ -32,7 +31,7 @@ Lastest Update: 14th Sep 2023&nbsp;
 
 <div align=center>
 <img src="images/2.jpg" class="floatpic" width="500" height="175">
-</div>
+
 
 
 
