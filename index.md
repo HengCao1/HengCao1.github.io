@@ -7,7 +7,7 @@ layout: page
 
 Here is **Heng Cao (操亨)**.
 
-I am a postdoctoral fellow majoring in **CO<sub>2</sub> photoreduction** at University of Science and Technology of China. Currently, I am working as a postdoctor in the **National Synchrontron Radiation Lab** (NSRL), cooperate with [Prof. Jun Bao](http://team.ustc.edu.cn/Baogroup/zh_CN/) and [Prof. Yang Pan](https://www.x-mol.com/groups/Pan_Yang).
+My research interests foucs on metal single-atom catalysis, and investigating their fundamental properties in **photocatalytic oxidative coupling of methane (OCM)** and **CO<sub>2</sub> photoreduction (CO2RR)**. Currently, I am working as a postdoctor in the **National Synchrontron Radiation Lab** (NSRL) at University of Science and Technology of China, cooperate with [Prof. Jun Bao](http://team.ustc.edu.cn/Baogroup/zh_CN/) and [Prof. Yang Pan](https://www.x-mol.com/groups/Pan_Yang).
 
 <br>
 
@@ -23,11 +23,11 @@ I am a postdoctoral fellow majoring in **CO<sub>2</sub> photoreduction** at Univ
 
 ## Research Interests
 
-- Active sites modulation
+- Active sites modulation in metal single-atom catalysis
 - CO<sub>2</sub> photoreduction CH<sub>4</sub> photooxidation
-- Synchrontron Radiation based Charaterizations
+- Synchrontron Radiation/Free Electron Laser based Charaterizations
 
-My current research focuses on the **mechanism of how active sites work** in the reaction of **CO<sub>2</sub> photoreduction** or **CH<sub>4</sub> photooxidation** via advanced charaterizations, especially Synchrontron Radiation based (XAS, SEPES, DRIFTS, SVUV-PIMS) and Free Electron Laser based (SFG, nano-IR) techonologies. <br>
+My current research focuses on the **mechanism of how active sites work** in the reaction of **CO<sub>2</sub> photoreduction** or **CH<sub>4</sub> photooxidation** via advanced charaterizations, especially Synchrontron Radiation based (sXAS, XAFS, SRPES, DRIFTS, SVUV-PIMS) and Free Electron Laser based (SFG, nano-IR) techonologies. <br>
 
 ---
 
