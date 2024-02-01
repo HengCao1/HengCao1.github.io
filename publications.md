@@ -39,7 +39,7 @@ Lastest Update: 1st Feb 2024&nbsp;
 
 <b>10.</b> Directing in-situ self-optimization of single-atom catalysts for improved oxygen evolution<br>Peiyu Ma#, Chen Feng#, Huihuang Chen, Jiawei Xue, Xinlong Ma, **Heng Cao**, Dongdi Wang, Ming Zuo, Ruyang Wang, Xilan Ding, Shiming Zhou, Zhirong Zhang, Jie Zeng, Jun Bao<br> [<i>Journal of Energy Chemistry</i>, <b>2023</b>, 80: 284-290.](http://dx.doi.org/10.1016/j.jechem.2022.12.051)<br>
 
-9. Remote Synergy between Heterogeneous Single Atoms and Clusters for Enhanced Oxygen Evolution<br>
+<b>9.</b> Remote Synergy between Heterogeneous Single Atoms and Clusters for Enhanced Oxygen Evolution<br>
 Xilan Ding#, Chuanyi Jia#, Peiyu Ma#, Huihuang Chen, Jiawei Xue, Dongdi Wang, Ruyang Wang, **Heng Cao**, Ming Zuo, Shiming Zhou, Zhirong Zhang*, Jie Zeng*, Jun Bao* <br>
 [<i>Nano Letter</i>, **2023**, 23(8): 3309-3316.](https://doi.org/10.1021/acs.nanolett.3c00228)<br>
 
