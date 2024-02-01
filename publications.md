@@ -70,7 +70,7 @@ Jingjing Dong, Zhiyu Wang, **Heng Cao**, Jiawei Xue, Chengyuan Liu, Song Sun, Ch
 Jingjing Dong#, Yuan Kong#, **Heng Cao**, Zhiyu Wang, Zhirong Zhang, Lidong Zhang, Song Sun, Chen Gao, Xiaodi Zhu*, Jun Bao* <br>
 [<i>Journal of Energy Chemistry</i>, **2022**, 64: 103-112.](https://doi.org/10.1016/j.jechem.2021.04.028)<br>
 
--1. Reversible rapid hydrogen doping of WO<sub>3</sub> in non-acid solution<br>
+- 1. Reversible rapid hydrogen doping of WO<sub>3</sub> in non-acid solution<br>
 Zhiping Bian, Jiangtao Zhao, **Heng Cao**, Yongqi Dong, Zhenlin Luo*<br>
 [<i>ACS Applied Materials & Interfaces</i>, **2021**, 13(11): 13419-13424.](https://doi.org/10.1021/acsami.1c01165)<br>
 
