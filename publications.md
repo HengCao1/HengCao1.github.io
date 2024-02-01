@@ -11,7 +11,7 @@ Lastest Update: 1st Feb 2024&nbsp;
 
 
 
-2. Unpaired electron engineering enables efficient and selective photocatalytic CO<sub>2</sub> Reduction to CH<sub>4</sub><br>
+<b>2.</b> Unpaired electron engineering enables efficient and selective photocatalytic CO<sub>2</sub> Reduction to CH<sub>4</sub><br>
 **Heng Cao#**, Shenlong Jiang#, Jiawei Xue*, Xiaodi Zhu, Qun Zhang*, and Jun Bao* <br>
 [<i>J. Phys. Chem. Lett.</i>, <b>2022</b>, 13(36): 8397-8402.](https://doi.org/10.1021/acs.jpclett.2c01983)<br>
 
