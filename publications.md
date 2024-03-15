@@ -28,7 +28,7 @@ Xilan Ding#, Chuanyi Jia#, Peiyu Ma#, Huihuang Chen, Jiawei Xue, Dongdi Wang, Ru
 <br>
 <b>8.</b> Neighboring cationic vacancy assisted adsorption optimization on single-atom sites for improved oxygen Evolution<br>
 Dongdi Wang, Jiawei Xue, Xilan Ding, Jie Wei, Chen Feng, Ruyang Wang, Peiyu Ma, Sicong Wang, **Heng Cao**, Jingyan Wang, Ming Zuo, Shiming Zhou, Zhirong Zhang * , Jie Zeng * , Jun Bao * <br>
-[<span style="color:blue;"> <i>ACS Catalysis</i>, **2022**, 12(19): 12458-12468.](https://doi.org/10.1021/acscatal.2c03476)<br>
+[<span style="color:red;"> <i>ACS Catalysis</i>, **2022**, 12(19): 12458-12468.](https://doi.org/10.1021/acscatal.2c03476)<br>
 <br>
 <b>7.</b> Efficient exciton dissociation through the edge interfacial state in metal halide perovskite-based photocatalysts<br>
 Jiawei Xue,# Shenlong Jiang,# Zhiyu Wang, Zhiyong Jiang, **Heng Cao**, Xiaodi Zhu, Qun Zhang * , Yi Luo, Jun Bao * <br>
