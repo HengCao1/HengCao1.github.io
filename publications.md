@@ -55,7 +55,8 @@ Jiawei Xue,# Shenlong Jiang,# Zhiyu Wang, Zhiyong Jiang, **Heng Cao**, Xiaodi Zh
 Zhiyu Wang, Jiawei Xue, Haibin Pan, Lihui Wu, Jingjing Dong, **Heng Cao**, Song Sun, Chen Gao, Xiaodi Zhu * , Jun Bao * <br>
 [<i>Physical Chemistry Chemical Physics</i>, **2020**, 22(28): 15795-15798.](https://doi.org/10.1039/d0cp01625j)<br>
 
-<b>5.</b> Photocatalytic conversion of CO<sub>2</sub> to acetic acid by CuPt/WO<sub>3</sub>: Chloride enhanced C-C coupling mechanism<br>Di Zeng#, Haipeng Wang#, Xiaodi Zhu, **Heng Cao**, Wenjing Wang, Yu Zhang, Juxue Wang, Ling Zhang * , Wenzhong Wang * <br>
+<b>5.</b> Photocatalytic conversion of CO<sub>2</sub> to acetic acid by CuPt/WO<sub>3</sub>: Chloride enhanced C-C coupling mechanism<br>
+Di Zeng, Haipeng Wang, Xiaodi Zhu, **Heng Cao**, Wenjing Wang, Yu Zhang, Juxue Wang, Ling Zhang * , Wenzhong Wang * <br>
 [<i>Applied Catalysis B: Environmental</i>, **2023**, 323: 122177.](https://doi.org/10.1016/j.apcatb.2022.122177)<br>
 
 <b>4.</b> Single-atom copper modified hexagonal tungsten oxide for efficient photocatalytic CO<sub>2</sub> reduction to acetic acid<br>
