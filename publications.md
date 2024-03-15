@@ -15,33 +15,9 @@ Lastest Update: 15th Mar 2024&nbsp;
 **Heng Cao#**, Shenlong Jiang#, Jiawei Xue * , Xiaodi Zhu, Qun Zhang * , and Jun Bao * <br>
 [<i>J. Phys. Chem. Lett.</i>, <b>2022</b>, 13(36): 8397-8402.](https://doi.org/10.1021/acs.jpclett.2c01983)<br>
 
-<br>
-<br>
-<br>
-<br>
-<img src="images/TOC-final.jpg" class="floatpic" width="350" height="250">
-<br>
-<br>
-<br>
-<br>
-
-
-
-
 <b>1.</b>Construction of atomically dispersed Cu sites and S vacancies on CdS for enhanced photocatalytic CO<sub>2</sub> reduction<br>
 **Heng Cao#**, Jiawei Xue#, Zhiyu Wang, Jingjing Dong, Wenjie Li, Ruyang Wang, Song Sun, Chen Gao, Yisheng Tan, Xiaodi Zhu * , Jun Bao * <br>
   [<i>J. Mater. Chem. A</i>, <b>2021</b>, 9(30): 16339-16344.](https://doi.org/10.1039/d1ta03615g)<br>
-<br>
-<br>
-<br>
-<br>
-
-<img src="images/JMCA.jpg" class="floatpic" width="500" height="175">
-<br>
-<br>
-<br>
-<br>
-
 
 ## Contributed Papers
 
