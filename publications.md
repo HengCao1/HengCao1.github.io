@@ -19,7 +19,7 @@ Lastest Update: 1st Feb 2024&nbsp;
 
 
 <div align=center>
-<img src="images\JPCL.jpg" class="floatpic" width="350" height="250">
+<img src="images\TOC-final.jpg" class="floatpic" width="350" height="250">
 </div>
 
 <b>1.</b> Construction of atomically dispersed Cu sites and S vacancies on CdS for enhanced photocatalytic CO<sub>2</sub> reduction<br>
