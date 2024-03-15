@@ -38,7 +38,7 @@ Lastest Update: 1st Feb 2024&nbsp;
 
 
 <div align=center>
-<img src="images\JMCA.jpg" class="floatpic" width="500" height="175">
+<img src="images/JMCA.jpg" class="floatpic" width="500" height="175">
 </div>
 
 
