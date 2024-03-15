@@ -41,7 +41,7 @@ Lastest Update: 1st Feb 2024&nbsp;
 
 <b>9.</b>Remote Synergy between Heterogeneous Single Atoms and Clusters for Enhanced Oxygen Evolution<br>
 Xilan Ding#, Chuanyi Jia#, Peiyu Ma#, Huihuang Chen, Jiawei Xue, Dongdi Wang, Ruyang Wang, **Heng Cao**, Ming Zuo, Shiming Zhou, Zhirong Zhang * , Jie Zeng * , Jun Bao * <br>
-[<i>Nano Letter</i>, **2023**, 23(8): 3309-3316.](https://doi.org/10.1021/acs.nanolett.3c00228)<br>
+[<i>Nano Letters</i>, **2023**, 23(8): 3309-3316.](https://doi.org/10.1021/acs.nanolett.3c00228)<br>
 
 <b>8.</b> Neighboring cationic vacancy assisted adsorption optimization on single-atom sites for improved oxygen Evolution<br>
 Dongdi Wang, Jiawei Xue, Xilan Ding, Jie Wei, Chen Feng, Ruyang Wang, Peiyu Ma, Sicong Wang, **Heng Cao**, Jingyan Wang, Ming Zuo, Shiming Zhou, Zhirong Zhang * , Jie Zeng * , Jun Bao * <br>
