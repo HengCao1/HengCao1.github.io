@@ -18,9 +18,9 @@ Lastest Update: 1st Feb 2024&nbsp;
 
 
 
-<div align=center>
+
 <img src="images\TOC-final.jpg" class="floatpic" width="350" height="250">
-</div>
+
 
 <b>1.</b> Construction of atomically dispersed Cu sites and S vacancies on CdS for enhanced photocatalytic CO<sub>2</sub> reduction<br>
 **Heng Cao#**, Jiawei Xue#, Zhiyu Wang, Jingjing Dong, Wenjie Li, Ruyang Wang, Song Sun, Chen Gao, Yisheng Tan, Xiaodi Zhu * , Jun Bao * <br>
