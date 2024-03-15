@@ -33,15 +33,7 @@ Lastest Update: 15th Mar 2024&nbsp;
   [<i>J. Mater. Chem. A</i>, <b>2021</b>, 9(30): 16339-16344.](https://doi.org/10.1039/d1ta03615g)<br>
 
 
-
-
-
-
-<div align=center>
 <img src="images/JMCA.jpg" class="floatpic" width="500" height="175">
-</div>
-
-
 
 
 
