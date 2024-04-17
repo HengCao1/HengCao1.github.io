@@ -4,13 +4,21 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 15th Mar 2024&nbsp; 
+Lastest Update: 17th Apr 2024&nbsp; 
 
 ## Papers
 (#Co-first author, *corresponding author)
 
 
 <br>
+<b>4.</b>Construction of Electron Capture and Transfer Center for Highly Efficient and Selective Solar-Light-Driven CO<sub>2</sub> Conversion<br>
+Wangzhong Tang#, **Heng Cao#** * , Peiyu Ma#, Tao Ding, SiShi Huang, Jiajun Wang * , Qunxiang Li * , Xiaoliang Xu * , Jinlong Yang <br>
+[<i>Nano. Lett.</i>, <b>2024</b>, accepted)<br>
+
+<b>3.</b>Neighbouring Synergy in High-density Single Ir Atoms on CoGaOOH for Efficient Alkaline Electrocatalytic Oxygen Evolution<br>
+Peiyu Ma#, **Heng Cao#**, Qi Hao, Ruyang Wang, Wanting Liu, Ming Zuo, Chuanyi Jia * , Zhirong Zhang * , Jun Bao * <br>
+[<i>Angew. Chem. Int. Ed.</i>, <b>2024</b>, e202404418.](https://onlinelibrary.wiley.com/doi/10.1002/anie.202404418)<br>
+
 <b>2.</b>Unpaired electron engineering enables efficient and selective photocatalytic CO<sub>2</sub> Reduction to CH<sub>4</sub><br>
 **Heng Cao#**, Shenlong Jiang#, Jiawei Xue * , Xiaodi Zhu, Qun Zhang * , and Jun Bao * <br>
 [<i>J. Phys. Chem. Lett.</i>, <b>2022</b>, 13(36): 8397-8402.](https://doi.org/10.1021/acs.jpclett.2c01983)<br>
