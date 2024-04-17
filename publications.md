@@ -12,7 +12,7 @@ Lastest Update: 17th Apr 2024&nbsp;
 
 <br>
 <b>4.</b>Construction of Electron Capture and Transfer Center for Highly Efficient and Selective Solar-Light-Driven CO<sub>2</sub> Conversion<br>
-Wangzhong Tang#, **Heng Cao#** * , Peiyu Ma#, Tao Ding, SiShi Huang, Jiajun Wang * , Qunxiang Li * , Xiaoliang Xu * , Jinlong Yang <br>
+Wangzhong Tang#, <b>Heng Cao#*</b>, Peiyu Ma#, Tao Ding, SiShi Huang, Jiajun Wang * , Qunxiang Li * , Xiaoliang Xu * , Jinlong Yang <br>
 [<i>Nano. Lett.</i>, <b>2024</b>, accepted)<br>
 
 <b>3.</b>Neighbouring Synergy in High-density Single Ir Atoms on CoGaOOH for Efficient Alkaline Electrocatalytic Oxygen Evolution<br>
