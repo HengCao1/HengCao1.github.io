@@ -4,16 +4,17 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 17th Apr 2024&nbsp; 
+Lastest Update: 19th Apr 2024&nbsp; 
 
 ## Papers
 (#Co-first author, *corresponding author)
 
 
 <br>
+
 <b>4.</b>Construction of Electron Capture and Transfer Center for Highly Efficient and Selective Solar-Light-Driven CO<sub>2</sub> Conversion<br>
 Wangzhong Tang#, <b>Heng Cao#*</b>, Peiyu Ma#, Tao Ding, SiShi Huang, Jiajun Wang * , Qunxiang Li * , Xiaoliang Xu * , Jinlong Yang <br>
-<i>Nano. Lett.</i>, <b>2024</b>, accepted <br>
+[<i>Nano. Lett.</i>, <b>2024</b>, accepted.](https://doi.org/10.1021/acs.nanolett.4c01064)<br>
 
 <b>3.</b>Neighbouring Synergy in High-density Single Ir Atoms on CoGaOOH for Efficient Alkaline Electrocatalytic Oxygen Evolution<br>
 Peiyu Ma#, **Heng Cao#**, Qi Hao, Ruyang Wang, Wanting Liu, Ming Zuo, Chuanyi Jia * , Zhirong Zhang * , Jun Bao * <br>
