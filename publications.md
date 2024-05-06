@@ -12,9 +12,13 @@ Lastest Update: 19th Apr 2024&nbsp;
 
 <br>
 <br>
+<b>5.</b>Efficient Interfacial Charge Transfer Enables Nearly 100% Selectivity for Solar-Light-Driven CO<sub>2</sub> Conversion<br>
+Wangzhong Tang#, Jie Meng#, Tao Ding#, Haisen Huang, Chuntian Tan, Qingao Zhong, Heng Cao * , Qunxiang Li * , Xiaoliang Xu * , and Jinlong Yang<br>
+[<i>ACS Catal.</i>, <b>2024</b>, 14, 7506–7513.](https://pubs.acs.org/doi/10.1021/acscatal.4c01020)<br>
+<br>
 <b>4.</b>Construction of Electron Capture and Transfer Center for Highly Efficient and Selective Solar-Light-Driven CO<sub>2</sub> Conversion<br>
 Wangzhong Tang#, <b>Heng Cao#*</b>, Peiyu Ma#, Tao Ding, SiShi Huang, Jiajun Wang * , Qunxiang Li * , Xiaoliang Xu * , Jinlong Yang <br>
-[<i>Nano. Lett.</i>, <b>2024</b>, accepted.](https://doi.org/10.1021/acs.nanolett.4c01064)<br>
+[<i>Nano. Lett.</i>, <b>2024</b>, 24(17), 5317–5323.](https://doi.org/10.1021/acs.nanolett.4c01064)<br>
 <br>
 <b>3.</b>Neighbouring Synergy in High-density Single Ir Atoms on CoGaOOH for Efficient Alkaline Electrocatalytic Oxygen Evolution<br>
 Peiyu Ma#, **Heng Cao#**, Qi Hao, Ruyang Wang, Wanting Liu, Ming Zuo, Chuanyi Jia * , Zhirong Zhang * , Jun Bao * <br>
