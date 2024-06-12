@@ -4,13 +4,17 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 28th May 2024&nbsp; 
+Lastest Update: 12th June 2024&nbsp; 
 
 ## Selected Papers
 (#Co-first author, *corresponding author)
 
 
 <br>
+<br>
+<b>6.</b>Defects Mediated Cu-S Pair Active Sites Modulating Proton Supply to Facilitate Overall CO<sub>2</sub> Photoreduction with H<sub>2</sub>O <br>
+<b>Heng Cao # </b>, Xiaodi Zhu * #, Jiawei Xue,  Ruyang Wang, Jiusi Shang, Peiyu Ma, Chengyuan Liu, and Jun Bao<br>
+[<i>ACS Catal.</i>, <b>2024</b>, xx, xxxx–xxxx.](https://doi.org/10.1021/acscatal.4c02857)<br>
 <br>
 <b>5.</b>Efficient Interfacial Charge Transfer Enables Nearly 100% Selectivity for Solar-Light-Driven CO<sub>2</sub> Conversion<br>
 Wangzhong Tang#, Jie Meng#, Tao Ding#, Haisen Huang, Chuntian Tan, Qingao Zhong, <b>Heng Cao * </b>, Qunxiang Li * , Xiaoliang Xu * , and Jinlong Yang<br>
