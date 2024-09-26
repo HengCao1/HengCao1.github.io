@@ -14,7 +14,7 @@ Lastest Update: 12th June 2024&nbsp;
 <br>
 <b>6.</b>Defects Mediated Cu-S Pair Active Sites Modulating Proton Supply to Facilitate Overall CO<sub>2</sub> Photoreduction with H<sub>2</sub>O <br>
 <b>Heng Cao # </b>, Xiaodi Zhu * #, Jiawei Xue,  Ruyang Wang, Jiusi Shang, Peiyu Ma, Chengyuan Liu, and Jun Bao<br>
-[<i>ACS Catal.</i>, <b>2024</b>, xx, xxxx–xxxx.](https://doi.org/10.1021/acscatal.4c02857)<br>
+[<i>ACS Catal.</i>, <b>2024</b>, 14, 9734−9741.](https://doi.org/10.1021/acscatal.4c02857)<br>
 <br>
 <b>5.</b>Efficient Interfacial Charge Transfer Enables Nearly 100% Selectivity for Solar-Light-Driven CO<sub>2</sub> Conversion<br>
 Wangzhong Tang#, Jie Meng#, Tao Ding#, Haisen Huang, Chuntian Tan, Qingao Zhong, <b>Heng Cao * </b>, Qunxiang Li * , Xiaoliang Xu * , and Jinlong Yang<br>
@@ -37,6 +37,8 @@ Peiyu Ma#, **Heng Cao#**, Qi Hao, Ruyang Wang, Wanting Liu, Ming Zuo, Chuanyi Ji
 [<i>J. Mater. Chem. A</i>, <b>2021</b>, 9(30): 16339-16344.](https://doi.org/10.1039/d1ta03615g)<br>
 
 ## Contributed Papers
+<b>11.</b>Maximizing the number of Rh0–Rh+ sites through metal dispersion control for the synthesis of higher alcohols from syngas<br>Ruyang Wang, **Heng Cao**, Peiyu Ma, Jun Bao * <br> [<i>Journal of Material Chemistry A</i>, <b>2024</b>, DOI: 10.1039/D4TA04890C .]((https://doi.org/10.1039/D4TA04890C))<br>
+
 <b>10.</b>Directing in-situ self-optimization of single-atom catalysts for improved oxygen evolution<br>Peiyu Ma#, Chen Feng#, Huihuang Chen, Jiawei Xue, Xinlong Ma, **Heng Cao**, Dongdi Wang, Ming Zuo, Ruyang Wang, Xilan Ding, Shiming Zhou, Zhirong Zhang * , Jie Zeng, Jun Bao<br> [<i>Journal of Energy Chemistry</i>, <b>2023</b>, 80: 284-290.](http://dx.doi.org/10.1016/j.jechem.2022.12.051)<br>
 <br>
 <b>9.</b>Remote Synergy between Heterogeneous Single Atoms and Clusters for Enhanced Oxygen Evolution<br>
