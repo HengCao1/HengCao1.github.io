@@ -3,7 +3,7 @@ layout: page
 ---
 # About Me
 
-<img src="images/HengCao1MB.jpg" class="floatpic" width="330" height="480">
+<img src="images/HengCao1MB.jpg" class="floatpic" width="448" height="448">
 
 Here is **Heng Cao (操亨)**.
 
