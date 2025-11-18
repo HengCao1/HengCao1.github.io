@@ -7,7 +7,7 @@ layout: page
 
 Here is **Heng Cao (操亨)**.
 
-My research interests foucs on active sites modulation and construction of 2D materials, investigating the reaction mechanism of the material apllied in **photocatalytic oxidative coupling of methane (OCM)** and **CO<sub>2</sub> photoreduction (CO<sub>2</sub>RR)**. Currently, I am working as a postdoctor in the **National Synchrontron Radiation Lab** (NSRL) at University of Science and Technology of China, cooperate with [Prof. Jun Bao](http://team.ustc.edu.cn/Baogroup/zh_CN/) and [Prof. Yang Pan](https://www.x-mol.com/groups/Pan_Yang).
+My research interests foucs on active sites modulation and construction of 2D materials, investigating the reaction mechanism of the material apllied in **photocatalytic oxidative coupling of methane (OCM)** and **CO<sub>2</sub> photoreduction (CO<sub>2</sub>RR)**. Currently, I am working as an associate research fellow in the **National Synchrontron Radiation Lab** (NSRL) at University of Science and Technology of China, cooperate with [Prof. Jun Bao](http://team.ustc.edu.cn/Baogroup/zh_CN/).
 
 <br>
 
@@ -23,7 +23,6 @@ My research interests foucs on active sites modulation and construction of 2D ma
 
 ## Research Interests
 
-- Active sites modulation, construction of 2D/2D materials
 - CO<sub>2</sub> photoreduction/CH<sub>4</sub> photooxidation reaction mechanism investigation
 - Synchrontron Radiation/Free Electron Laser based Charaterizations
 
