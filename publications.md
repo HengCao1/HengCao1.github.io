@@ -40,7 +40,8 @@ Peiyu Ma#, **Heng Cao#**, Qi Hao, Ruyang Wang, Wanting Liu, Ming Zuo, Chuanyi Ji
 <br>
 <b>1.</b>Construction of atomically dispersed Cu sites and S vacancies on CdS for enhanced photocatalytic CO<sub>2</sub> reduction<br>
 **Heng Cao#**, Jiawei Xue#, Zhiyu Wang, Jingjing Dong, Wenjie Li, Ruyang Wang, Song Sun, Chen Gao, Yisheng Tan, Xiaodi Zhu * , Jun Bao * <br>
-[<i>J. Mater. Chem. A</i>, <b>2021</b>, 9(30): 16339-16344.](https://doi.org/10.1039/d1ta03615g)<br>
+[*J. Mater. Chem. A*, **2021**, 9(30): 16339–16344.](https://doi.org/10.1039/d1ta03615g)  
+
 
 ## Contributed Papers
 <b>13.</b>Spatially Engineered Ternary Schottky/S‐scheme Heterojunctions for Artificial Photosynthesis<br>F. Xu; W. Mei; P. Hu; L. Zheng; J. Zhang; H. Cao; H. García; J. Yu <br>
