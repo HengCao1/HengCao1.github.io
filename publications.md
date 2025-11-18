@@ -9,8 +9,14 @@ Lastest Update: 26th Sep 2024&nbsp;
 ## Selected Papers
 (#Co-first author, *corresponding author)
 
-
 <br>
+<b>8.</b>In situ infrared spectroscopy and sum frequency generation spectroscopy in energy catalysis: fundamentals, challenges, and perspectives (<i>Invited Review</i>)  <br>
+Wei Guo,Peiyu Ma*,<b> Heng Cao* </b>, Jun Bao*<br>
+[<i>Discover Catal.</i>, <b>2025</b>, 2, 21.](https://doi.org/10.1007/s44344-025-00026-3)<br>
+<br>
+<b>7.</b>Visualizing interfacial charge transfer of two-dimensional heterostructure photocatalyst for efficient CO<sub>2</sub> photoreduction via in situ spectroscopies  <br>
+Jiusi Shang#,<b> Heng Cao#* </b>, Peiyu Ma#, Ruyang Wang, Jiawei Xue, Chengyuan Liu, Guoping Sheng, Xiaodi Zhu*, Jun Bao*<br>
+[<i>J. Energy Chem.</i>, <b>2025</b>, 109, 798−806.](https://doi.org/10.1016/j.jechem.2025.06.023)<br>
 <br>
 <b>6.</b>Defects Mediated Cu-S Pair Active Sites Modulating Proton Supply to Facilitate Overall CO<sub>2</sub> Photoreduction with H<sub>2</sub>O <br>
 <b>Heng Cao # </b>, Xiaodi Zhu * #, Jiawei Xue,  Ruyang Wang, Jiusi Shang, Peiyu Ma, Chengyuan Liu, and Jun Bao<br>
@@ -37,7 +43,14 @@ Peiyu Ma#, **Heng Cao#**, Qi Hao, Ruyang Wang, Wanting Liu, Ming Zuo, Chuanyi Ji
 [<i>J. Mater. Chem. A</i>, <b>2021</b>, 9(30): 16339-16344.](https://doi.org/10.1039/d1ta03615g)<br>
 
 ## Contributed Papers
-<b>11.</b>Maximizing the number of Rh0–Rh+ sites through metal dispersion control for the synthesis of higher alcohols from syngas<br>Ruyang Wang, **Heng Cao**, Peiyu Ma, Jun Bao * <br> [<i>Journal of Material Chemistry A</i>, <b>2024</b>, DOI: 10.1039/D4TA04890C .]((https://doi.org/10.1039/D4TA04890C))<br>
+<b>13.</b>Spatially Engineered Ternary Schottky/S‐scheme Heterojunctions for Artificial Photosynthesis<br>F. Xu; W. Mei; P. Hu; L. Zheng; J. Zhang; H. Cao; H. García; J. Yu <br>
+[<i>Angewandte Chemie International Edition 2025, 64, e202513364.]()<br>
+
+<b>12.</b>Regulating Catalytic Performance for CO Hydrogenation to Higher Oxygenates through Strong Metal–Support Interaction<br>R. Wang; J. Yang; P. Ma; H. Cao; Z. Ma; Y. Zhu; H. Lou; Z. Wang; L. Luo; J. Bao <br>
+[<i>ACS Catalysis 2025, 15, 11204–11216.]()<br>
+
+<b>11.</b>Maximizing the number of Rh0–Rh+ sites through metal dispersion control for the synthesis of higher alcohols from syngas<br>Ruyang Wang, **Heng Cao**, Peiyu Ma, Jun Bao * <br>
+[<i>Journal of Material Chemistry A</i>, <b>2024</b>, 12(39), 26791-26799.](https://doi.org/10.1039/D4TA04890C)<br>
 
 <b>10.</b>Directing in-situ self-optimization of single-atom catalysts for improved oxygen evolution<br>Peiyu Ma#, Chen Feng#, Huihuang Chen, Jiawei Xue, Xinlong Ma, **Heng Cao**, Dongdi Wang, Ming Zuo, Ruyang Wang, Xilan Ding, Shiming Zhou, Zhirong Zhang * , Jie Zeng, Jun Bao<br> [<i>Journal of Energy Chemistry</i>, <b>2023</b>, 80: 284-290.](http://dx.doi.org/10.1016/j.jechem.2022.12.051)<br>
 <br>
