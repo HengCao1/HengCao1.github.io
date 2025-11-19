@@ -8,20 +8,26 @@ Lastest Update: 19th Nov 2025&nbsp;
 
 ## Selected Papers
 
-\#Co-first author, \*corresponding author
+(\#Co-first author, \*corresponding author)
 
--**8.** In situ infrared spectroscopy and sum frequency generation spectroscopy in energy catalysis: fundamentals, challenges, and perspectives (*Invited Review*)  
+- **8.** In situ infrared spectroscopy and sum frequency generation spectroscopy in energy catalysis: fundamentals, challenges, and perspectives (*Invited Review*)  
 Wei Guo, Peiyu Ma*, **Heng Cao***, Jun Bao*  
 [*Discover Catal.* **2025**, 2, 21](https://doi.org/10.1007/s44344-025-00026-3)
+
 <br>
--**7.** Visualizing interfacial charge transfer of two-dimensional heterostructure photocatalyst for efficient CO<sub>2</sub> photoreduction via in situ spectroscopies  
+
+- **7.** Visualizing interfacial charge transfer of two-dimensional heterostructure photocatalyst for efficient CO<sub>2</sub> photoreduction via in situ spectroscopies  
 Jiusi Shang#, **Heng Cao#**\*, Peiyu Ma#, Ruyang Wang, Jiawei Xue, Chengyuan Liu, Guoping Sheng, Xiaodi Zhu*, Jun Bao*  
 [*J. Energy Chem.* **2025**, 109, 798–806](https://doi.org/10.1016/j.jechem.2025.06.023)
+
 <br>
--**6.** Defects Mediated Cu-S Pair Active Sites Modulating Proton Supply to Facilitate Overall CO<sub>2</sub> Photoreduction with H<sub>2</sub>O  
+
+- **6.** Defects Mediated Cu-S Pair Active Sites Modulating Proton Supply to Facilitate Overall CO<sub>2</sub> Photoreduction with H<sub>2</sub>O  
 **Heng Cao#**, Xiaodi Zhu*#, Jiawei Xue, Ruyang Wang, Jiusi Shang, Peiyu Ma, Chengyuan Liu, Jun Bao  
 [*ACS Catal.* **2024**, 14, 9734–9741](https://doi.org/10.1021/acscatal.4c02857)
+
 <br>
+
 -**5.** Efficient Interfacial Charge Transfer Enables Nearly 100% Selectivity for Solar-Light-Driven CO<sub>2</sub> Conversion  
 Wangzhong Tang#, Jie Meng#, Tao Ding#, Haisen Huang, Chuntian Tan, Qingao Zhong, **Heng Cao**\*, Qunxiang Li*, Xiaoliang Xu*, Jinlong Yang  
 [*ACS Catal.* **2024**, 14, 7506–7513](https://pubs.acs.org/doi/10.1021/acscatal.4c01020)
