@@ -10,15 +10,21 @@ Lastest Update: 19th Nov 2025&nbsp;
 
 (\#Co-first author, \*corresponding author)
 
-<div>
+
+**9.** Promoting Low-Temperature Oxidative Dehydrogenation of Propane through Oxide-Support Interaction Regulation  
+Wenjie Li, Hong Wang, Zhandong Wang, **Heng Cao**\*, Jun Bao*  
+[*Catal. Sci. Tech.* **2025**](https://doi.org/10.1039/d5cy01239b)
+
 
 **8.** In situ infrared spectroscopy and sum frequency generation spectroscopy in energy catalysis: fundamentals, challenges, and perspectives (*Invited Review*)  
-Wei Guo, Peiyu Ma*, **Heng Cao***, Jun Bao*  
+Wei Guo, Peiyu Ma*, **Heng Cao**\*, Jun Bao*  
 [*Discover Catal.* **2025**, 2, 21](https://doi.org/10.1007/s44344-025-00026-3)
+
 
 **7.** Visualizing interfacial charge transfer of two-dimensional heterostructure photocatalyst for efficient CO<sub>2</sub> photoreduction via in situ spectroscopies  
 Jiusi Shang#, **Heng Cao#**\*, Peiyu Ma#, Ruyang Wang, Jiawei Xue, Chengyuan Liu, Guoping Sheng, Xiaodi Zhu*, Jun Bao*  
 [*J. Energy Chem.* **2025**, 109, 798–806](https://doi.org/10.1016/j.jechem.2025.06.023)
+
 
 **6.** Defects Mediated Cu-S Pair Active Sites Modulating Proton Supply to Facilitate Overall CO<sub>2</sub> Photoreduction with H<sub>2</sub>O  
 **Heng Cao#**, Xiaodi Zhu*#, Jiawei Xue, Ruyang Wang, Jiusi Shang, Peiyu Ma, Chengyuan Liu, Jun Bao  
@@ -44,7 +50,6 @@ Peiyu Ma#, **Heng Cao#**, Qi Hao, Ruyang Wang, Wanting Liu, Ming Zuo, Chuanyi Ji
 **Heng Cao#**, Jiawei Xue#, Zhiyu Wang, Jingjing Dong, Wenjie Li, Ruyang Wang, Song Sun, Chen Gao, Yisheng Tan, Xiaodi Zhu*, Jun Bao*  
 [*J. Mater. Chem. A* **2021**, 9, 16339–16344](https://doi.org/10.1039/d1ta03615g)
 
-</div>
 
 ## Contributed Papers
 
