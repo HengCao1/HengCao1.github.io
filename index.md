@@ -7,7 +7,7 @@ layout: page
 
 Here is **Heng Cao (操亨)**.
 
-My research interests foucs on active sites modulation and construction of 2D materials, investigating the reaction mechanism of the material apllied in **photocatalytic oxidative coupling of methane (OCM)** and **CO<sub>2</sub> photoreduction (CO<sub>2</sub>RR)**. Currently, I am working as an associate research fellow in the **National Synchrontron Radiation Lab** (NSRL) at University of Science and Technology of China, cooperate with [Prof. Jun Bao](http://team.ustc.edu.cn/Baogroup/zh_CN/).
+My research interests foucs on the reaction mechanism investigation of  **photocatalytic oxidative coupling of methane (OCM)** and **CO<sub>2</sub> photoreduction (CO<sub>2</sub>RR)** by advanced techniques like *in situ* XAFS and SFGS. Currently, I am working as an associate research fellow in the **National Synchrontron Radiation Lab** (NSRL) at University of Science and Technology of China, cooperate with [Prof. Jun Bao](http://team.ustc.edu.cn/Baogroup/zh_CN/).
 
 <br>
 
@@ -26,7 +26,7 @@ My research interests foucs on active sites modulation and construction of 2D ma
 - CO<sub>2</sub> photoreduction/CH<sub>4</sub> photooxidation reaction mechanism investigation
 - Synchrontron Radiation/Free Electron Laser based Charaterizations
 
-My current research focuses on the **reaction mechanism ** in the reaction of **CO<sub>2</sub> photoreduction** or **CH<sub>4</sub> photooxidation** via advanced charaterizations, especially Synchrontron Radiation based (sXAS, XAFS, SRPES, DRIFTS, SVUV-PIMS) and Free Electron Laser based (SFG, nano-IR) techonologies. <br>
+My current research focuses on the **reaction mechanism investigation** of **CO<sub>2</sub> photoreduction** or **CH<sub>4</sub> photooxidation** via advanced charaterizations, especially Synchrontron Radiation based (sXAS, XAFS, SRPES, DRIFTS, SVUV-PIMS) and Free Electron Laser based (SFG, nano-IR) techonologies. <br>
 
 ---
 
