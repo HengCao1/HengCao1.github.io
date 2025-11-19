@@ -16,7 +16,7 @@ Wenjie Li, Hong Wang, Zhandong Wang, **Heng Cao**\*, Jun Bao*
 <br>
 - **8.** In situ infrared spectroscopy and sum frequency generation spectroscopy in energy catalysis: fundamentals, challenges, and perspectives (*Invited Review*)  
 Wei Guo, Peiyu Ma*, **Heng Cao**\*, Jun Bao*  
-[*Discover Catal.* **2025**, 2, 21](https://doi.org/10.1007/s44344-025-00026-3)
+[*Discov. Catal.* **2025**, 2, 21](https://doi.org/10.1007/s44344-025-00026-3)
 <br>
 
 - **7.** Visualizing interfacial charge transfer of two-dimensional heterostructure photocatalyst for efficient CO<sub>2</sub> photoreduction via in situ spectroscopies  
