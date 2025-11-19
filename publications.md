@@ -10,42 +10,42 @@ Lastest Update: 19th Nov 2025&nbsp;
 
  (\#Co-first author, \*corresponding author)
 
- 9. Promoting Low-Temperature Oxidative Dehydrogenation of Propane through Oxide-Support Interaction Regulation  
- Wenjie Li, Hong Wang, Zhandong Wang, **Heng Cao**\*, Jun Bao*  
- [*Catal. Sci. Tech.* **2025**](https://doi.org/10.1039/d5cy01239b)  
- <br>
+- **9.** Promoting Low-Temperature Oxidative Dehydrogenation of Propane through Oxide-Support Interaction Regulation  
+Wenjie Li, Hong Wang, Zhandong Wang, **Heng Cao**\*, Jun Bao*  
+[*Catal. Sci. Tech.* **2025**](https://doi.org/10.1039/d5cy01239b)  
+<br>
 
- 8. In situ infrared spectroscopy and sum frequency generation spectroscopy in energy catalysis: fundamentals, challenges, and perspectives (*Invited Review*)  
- Wei Guo, Peiyu Ma*, **Heng Cao**\*, Jun Bao*  
- [*Discover Catal.* **2025**, 2, 21](https://doi.org/10.1007/s44344-025-00026-3)
- <br>
+- **8.** In situ infrared spectroscopy and sum frequency generation spectroscopy in energy catalysis: fundamentals, challenges, and perspectives (*Invited Review*)  
+Wei Guo, Peiyu Ma*, **Heng Cao**\*, Jun Bao*  
+[*Discover Catal.* **2025**, 2, 21](https://doi.org/10.1007/s44344-025-00026-3)
+<br>
 
-  **7.** Visualizing interfacial charge transfer of two-dimensional heterostructure photocatalyst for efficient CO<sub>2</sub> photoreduction via in situ spectroscopies  
+- **7.** Visualizing interfacial charge transfer of two-dimensional heterostructure photocatalyst for efficient CO<sub>2</sub> photoreduction via in situ spectroscopies  
 Jiusi Shang#, **Heng Cao#**\*, Peiyu Ma#, Ruyang Wang, Jiawei Xue, Chengyuan Liu, Guoping Sheng, Xiaodi Zhu*, Jun Bao*  
 [*J. Energy Chem.* **2025**, 109, 798–806](https://doi.org/10.1016/j.jechem.2025.06.023)
  <br>
 
-**6.** Defects Mediated Cu-S Pair Active Sites Modulating Proton Supply to Facilitate Overall CO<sub>2</sub> Photoreduction with H<sub>2</sub>O  
+- **6.** Defects Mediated Cu-S Pair Active Sites Modulating Proton Supply to Facilitate Overall CO<sub>2</sub> Photoreduction with H<sub>2</sub>O  
 **Heng Cao#**, Xiaodi Zhu*#, Jiawei Xue, Ruyang Wang, Jiusi Shang, Peiyu Ma, Chengyuan Liu, Jun Bao  
 [*ACS Catal.* **2024**, 14, 9734–9741](https://doi.org/10.1021/acscatal.4c02857)
 
-**5.** Efficient Interfacial Charge Transfer Enables Nearly 100% Selectivity for Solar-Light-Driven CO<sub>2</sub> Conversion  
+- **5.** Efficient Interfacial Charge Transfer Enables Nearly 100% Selectivity for Solar-Light-Driven CO<sub>2</sub> Conversion  
 Wangzhong Tang#, Jie Meng#, Tao Ding#, Haisen Huang, Chuntian Tan, Qingao Zhong, **Heng Cao**\*, Qunxiang Li*, Xiaoliang Xu*, Jinlong Yang  
 [*ACS Catal.* **2024**, 14, 7506–7513](https://pubs.acs.org/doi/10.1021/acscatal.4c01020)
 
-**4.** Construction of Electron Capture and Transfer Center for Highly Efficient and Selective Solar-Light-Driven CO<sub>2</sub> Conversion  
+- **4.** Construction of Electron Capture and Transfer Center for Highly Efficient and Selective Solar-Light-Driven CO<sub>2</sub> Conversion  
 Wangzhong Tang#, **Heng Cao#***, Peiyu Ma#, Tao Ding, SiShi Huang, Jiajun Wang*, Qunxiang Li*, Xiaoliang Xu*, Jinlong Yang  
 [*Nano Lett.* **2024**, 24(17), 5317–5323](https://doi.org/10.1021/acs.nanolett.4c01064)
 
-**3.** Neighbouring Synergy in High-density Single Ir Atoms on CoGaOOH for Efficient Alkaline Electrocatalytic Oxygen Evolution  
+- **3.** Neighbouring Synergy in High-density Single Ir Atoms on CoGaOOH for Efficient Alkaline Electrocatalytic Oxygen Evolution  
 Peiyu Ma#, **Heng Cao#**, Qi Hao, Ruyang Wang, Wanting Liu, Ming Zuo, Chuanyi Jia*, Zhirong Zhang*, Jun Bao*  
 [*Angew. Chem. Int. Ed.* **2024**, e202404418](https://onlinelibrary.wiley.com/doi/10.1002/anie.202404418)
 
-**2.** Unpaired electron engineering enables efficient and selective photocatalytic CO<sub>2</sub> Reduction to CH<sub>4</sub>  
+- **2.** Unpaired electron engineering enables efficient and selective photocatalytic CO<sub>2</sub> Reduction to CH<sub>4</sub>  
 **Heng Cao#**, Shenlong Jiang#, Jiawei Xue*, Xiaodi Zhu, Qun Zhang*, Jun Bao*  
 [*J. Phys. Chem. Lett.* **2022**, 13, 8397–8402](https://doi.org/10.1021/acs.jpclett.2c01983)
 
-**1.** Construction of atomically dispersed Cu sites and S vacancies on CdS for enhanced photocatalytic CO<sub>2</sub> reduction  
+- **1.** Construction of atomically dispersed Cu sites and S vacancies on CdS for enhanced photocatalytic CO<sub>2</sub> reduction  
 **Heng Cao#**, Jiawei Xue#, Zhiyu Wang, Jingjing Dong, Wenjie Li, Ruyang Wang, Song Sun, Chen Gao, Yisheng Tan, Xiaodi Zhu*, Jun Bao*  
 [*J. Mater. Chem. A* **2021**, 9, 16339–16344](https://doi.org/10.1039/d1ta03615g)
 
