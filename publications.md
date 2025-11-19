@@ -28,26 +28,32 @@ Jiusi Shang#, **Heng Cao#**\*, Peiyu Ma#, Ruyang Wang, Jiawei Xue, Chengyuan Liu
 - **6.** Defects Mediated Cu-S Pair Active Sites Modulating Proton Supply to Facilitate Overall CO<sub>2</sub> Photoreduction with H<sub>2</sub>O  
 **Heng Cao#**, Xiaodi Zhu*#, Jiawei Xue, Ruyang Wang, Jiusi Shang, Peiyu Ma, Chengyuan Liu, Jun Bao  
 [*ACS Catal.* **2024**, 14, 9734–9741](https://doi.org/10.1021/acscatal.4c02857)
+ <br>
 
 - **5.** Efficient Interfacial Charge Transfer Enables Nearly 100% Selectivity for Solar-Light-Driven CO<sub>2</sub> Conversion  
 Wangzhong Tang#, Jie Meng#, Tao Ding#, Haisen Huang, Chuntian Tan, Qingao Zhong, **Heng Cao**\*, Qunxiang Li*, Xiaoliang Xu*, Jinlong Yang  
 [*ACS Catal.* **2024**, 14, 7506–7513](https://pubs.acs.org/doi/10.1021/acscatal.4c01020)
+ <br>
 
 - **4.** Construction of Electron Capture and Transfer Center for Highly Efficient and Selective Solar-Light-Driven CO<sub>2</sub> Conversion  
 Wangzhong Tang#, **Heng Cao#***, Peiyu Ma#, Tao Ding, SiShi Huang, Jiajun Wang*, Qunxiang Li*, Xiaoliang Xu*, Jinlong Yang  
 [*Nano Lett.* **2024**, 24(17), 5317–5323](https://doi.org/10.1021/acs.nanolett.4c01064)
+ <br>
 
 - **3.** Neighbouring Synergy in High-density Single Ir Atoms on CoGaOOH for Efficient Alkaline Electrocatalytic Oxygen Evolution  
 Peiyu Ma#, **Heng Cao#**, Qi Hao, Ruyang Wang, Wanting Liu, Ming Zuo, Chuanyi Jia*, Zhirong Zhang*, Jun Bao*  
 [*Angew. Chem. Int. Ed.* **2024**, e202404418](https://onlinelibrary.wiley.com/doi/10.1002/anie.202404418)
+ <br>
 
 - **2.** Unpaired electron engineering enables efficient and selective photocatalytic CO<sub>2</sub> Reduction to CH<sub>4</sub>  
 **Heng Cao#**, Shenlong Jiang#, Jiawei Xue*, Xiaodi Zhu, Qun Zhang*, Jun Bao*  
 [*J. Phys. Chem. Lett.* **2022**, 13, 8397–8402](https://doi.org/10.1021/acs.jpclett.2c01983)
+ <br>
 
 - **1.** Construction of atomically dispersed Cu sites and S vacancies on CdS for enhanced photocatalytic CO<sub>2</sub> reduction  
 **Heng Cao#**, Jiawei Xue#, Zhiyu Wang, Jingjing Dong, Wenjie Li, Ruyang Wang, Song Sun, Chen Gao, Yisheng Tan, Xiaodi Zhu*, Jun Bao*  
 [*J. Mater. Chem. A* **2021**, 9, 16339–16344](https://doi.org/10.1039/d1ta03615g)
+ <br>
 
 
 ## Contributed Papers
