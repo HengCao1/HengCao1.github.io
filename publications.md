@@ -10,20 +10,21 @@ Lastest Update: 19th Nov 2025&nbsp;
 
  (\#Co-first author, \*corresponding author)
 
- **9.** Promoting Low-Temperature Oxidative Dehydrogenation of Propane through Oxide-Support Interaction Regulation  
+
+  **9.** Promoting Low-Temperature Oxidative Dehydrogenation of Propane through Oxide-Support Interaction Regulation  
  Wenjie Li, Hong Wang, Zhandong Wang, **Heng Cao**\*, Jun Bao*  
  [*Catal. Sci. Tech.* **2025**](https://doi.org/10.1039/d5cy01239b)  
  <br>
 
-**8.** In situ infrared spectroscopy and sum frequency generation spectroscopy in energy catalysis: fundamentals, challenges, and perspectives (*Invited Review*)  
+  **8.** In situ infrared spectroscopy and sum frequency generation spectroscopy in energy catalysis: fundamentals, challenges, and perspectives (*Invited Review*)  
 Wei Guo, Peiyu Ma*, **Heng Cao**\*, Jun Bao*  
 [*Discover Catal.* **2025**, 2, 21](https://doi.org/10.1007/s44344-025-00026-3)
+ <br>
 
-
-**7.** Visualizing interfacial charge transfer of two-dimensional heterostructure photocatalyst for efficient CO<sub>2</sub> photoreduction via in situ spectroscopies  
+  **7.** Visualizing interfacial charge transfer of two-dimensional heterostructure photocatalyst for efficient CO<sub>2</sub> photoreduction via in situ spectroscopies  
 Jiusi Shang#, **Heng Cao#**\*, Peiyu Ma#, Ruyang Wang, Jiawei Xue, Chengyuan Liu, Guoping Sheng, Xiaodi Zhu*, Jun Bao*  
 [*J. Energy Chem.* **2025**, 109, 798–806](https://doi.org/10.1016/j.jechem.2025.06.023)
-
+ <br>
 
 **6.** Defects Mediated Cu-S Pair Active Sites Modulating Proton Supply to Facilitate Overall CO<sub>2</sub> Photoreduction with H<sub>2</sub>O  
 **Heng Cao#**, Xiaodi Zhu*#, Jiawei Xue, Ruyang Wang, Jiusi Shang, Peiyu Ma, Chengyuan Liu, Jun Bao  
