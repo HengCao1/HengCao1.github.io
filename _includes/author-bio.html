@@ -77,39 +77,37 @@
 </p>
 {% endif %}
 
-<!-- 以下学术链接只在 Publications 页面显示 -->
-{% if page.permalink == '/publications/index.html' %}
+<!-- 各页面侧栏的学术链接 -->
+{% if site.owner.scholar %}
+<p style="text-indent:0;">
+  <a href="{{ site.owner.scholar | escape }}" target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-google-scholar-square" aria-hidden="true"></i> Google Scholar
+  </a>
+</p>
+{% endif %}
 
-  {% if site.owner.scholar %}
-  <p style="text-indent:0;">
-    <a href="{{ site.owner.scholar | escape }}" target="_blank" rel="noopener noreferrer">
-      <i class="ai ai-google-scholar-square" aria-hidden="true"></i> Google Scholar
-    </a>
-  </p>
-  {% endif %}
+{% if site.owner['Researcher ID'] %}
+<p style="text-indent:0;">
+  <a href="{{ site.owner['Researcher ID'] | escape }}" target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-researcherid-square" aria-hidden="true"></i> Web of Science
+  </a>
+</p>
+{% endif %}
 
-  {% if site.owner['Researcher ID'] %}
-  <p style="text-indent:0;">
-    <a href="{{ site.owner['Researcher ID'] | escape }}" target="_blank" rel="noopener noreferrer">
-      <i class="ai ai-researcherid-square" aria-hidden="true"></i> Web of Science
-    </a>
-  </p>
-  {% endif %}
+{% if site.owner.ORCID %}
+<p style="text-indent:0;">
+  <a href="{{ site.owner.ORCID | escape }}" target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-orcid-square" aria-hidden="true"></i> ORCID
+  </a>
+</p>
+{% endif %}
 
-  {% if site.owner.ORCID %}
-  <p style="text-indent:0;">
-    <a href="{{ site.owner.ORCID | escape }}" target="_blank" rel="noopener noreferrer">
-      <i class="ai ai-orcid-square" aria-hidden="true"></i> ORCID
-    </a>
-  </p>
-  {% endif %}
-
-  {% if site.owner.researchgate %}
-  <p style="text-indent:0;">
-    <a href="{{ site.owner.researchgate | escape }}" target="_blank" rel="noopener noreferrer">
-      <i class="ai ai-researchgate-square" aria-hidden="true"></i> ResearchGate
-    </a>
-  </p>
-  {% endif %}
+{% if site.owner.researchgate %}
+<p style="text-indent:0;">
+  <a href="{{ site.owner.researchgate | escape }}" target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-researchgate-square" aria-hidden="true"></i> ResearchGate
+  </a>
+</p>
+{% endif %}
 
 {% endif %}
