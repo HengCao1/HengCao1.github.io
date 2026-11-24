@@ -26,3 +26,27 @@
 <!-- {% if site.owner.Bilibili %}<p style="text-indent:0;"><a href="https://bilibili.com/{{ site.owner.bilibili }}"><i class="icon-bilibili"></i> Bilibili</a></p>{% endif %} -->
 
 <!-- Lastly modified by Hanlin CAI in 2023/01/15 -->
+
+{% if site.owner['Researcher ID'] %}
+<p style="text-indent:0;">
+  <a href="{{ site.owner['Researcher ID'] }}">
+    <i class="ai ai-researcherid-square" aria-hidden="true"></i> Web of Science
+  </a>
+</p>
+{% endif %}
+
+{% if site.owner.ORCID %}
+<p style="text-indent:0;">
+  <a href="{{ site.owner.ORCID }}">
+    <i class="ai ai-orcid-square" aria-hidden="true"></i> ORCID
+  </a>
+</p>
+{% endif %}
+
+{% if site.owner.researchgate %}
+<p style="text-indent:0;">
+  <a href="{{ site.owner.researchgate }}">
+    <i class="ai ai-researchgate-square" aria-hidden="true"></i> ResearchGate
+  </a>
+</p>
+{% endif %}
