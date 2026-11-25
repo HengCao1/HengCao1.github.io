@@ -1,58 +1,4 @@
----
-layout: page
-permalink: /publications/index.html
-title: Publications
----
-
-<style>
-ol.publication-list {
-  list-style: decimal outside;
-  padding-inline-start: 2.2em;
-}
-
-ol.publication-list > li {
-  list-style: decimal outside;
-  margin-block-end: 0.9em;
-}
-
-ol.publication-list > li::marker {
-  font-weight: 700;
-}
-</style>
-
-<p>Latest Update: 24 Nov 2026</p>
-<p><sup>#</sup> Co-first authors (equal contribution) · <sup>*</sup> Corresponding author</p>
-
-<h2 id="selected-papers">Selected Papers</h2>
-
-<ol class="publication-list" type="1" reversed>
-  <li>
-    <em>Promoting low-temperature oxidative dehydrogenation of propane through oxide–support interaction regulation</em><br>
-    Wenjie Li, Hong Wang, Zhandong Wang, <strong>Heng Cao</strong><sup>*</sup>, Jun Bao<sup>*</sup><br>
-    <a href="https://doi.org/10.1039/D5CY01239B"><em>Catal. Sci. Technol.</em> <strong>2026</strong>, 16, 167–175</a>
-  </li>
-  <li>
-    <em>In situ infrared spectroscopy and sum frequency generation spectroscopy in energy catalysis: fundamentals, challenges, and perspectives</em> <em>(Invited Review)</em><br>
-    Wei Guo, Peiyu Ma<sup>*</sup>, <strong>Heng Cao</strong><sup>*</sup>, Jun Bao<sup>*</sup><br>
-    <a href="https://doi.org/10.1007/s44344-025-00026-3"><em>Discov. Catal.</em> <strong>2025</strong>, 2, 21</a>
-  </li>
-  <li>
-    <em>Visualizing interfacial charge transfer of two-dimensional heterostructure photocatalyst for efficient CO<sub>2</sub> photoreduction via in situ spectroscopies</em><br>
-    Jiusi Shang<sup>#</sup>, <strong>Heng Cao</strong><sup>#*</sup>, Peiyu Ma<sup>#</sup>, Ruyang Wang, Jiawei Xue, Chengyuan Liu, Guoping Sheng, Xiaodi Zhu<sup>*</sup>, Jun Bao<sup>*</sup><br>
-    <a href="https://doi.org/10.1016/j.jechem.2025.06.023"><em>J. Energy Chem.</em> <strong>2025</strong>, 109, 798–806</a>
-  </li>
-  <li>
-    <em>Defect-Mediated Cu–S Pair Active Sites Modulating Proton Supply to Facilitate Overall CO<sub>2</sub> Photoreduction with H<sub>2</sub>O</em><br>
-    <strong>Heng Cao</strong><sup>#</sup>, Xiaodi Zhu<sup>#*</sup>, Jiawei Xue, Ruyang Wang, Jiusi Shang, Peiyu Ma, Chengyuan Liu, Jun Bao<sup>*</sup><br>
-    <a href="https://doi.org/10.1021/acscatal.4c02857"><em>ACS Catal.</em> <strong>2024</strong>, 14, 9734–9741</a>
-  </li>
-  <li>
-    <em>Efficient Interfacial Charge Transfer Enables Nearly 100% Selectivity for Solar-Light-Driven CO<sub>2</sub> Conversion</em><br>
-    Wangzhong Tang<sup>#</sup>, Jie Meng<sup>#</sup>, Tao Ding<sup>#</sup>, Haisen Huang, Chuntian Tan, Qingao Zhong, <strong>Heng Cao</strong><sup>*</sup>, Qunxiang Li<sup>*</sup>, Xiaoliang Xu<sup>*</sup>, Jinlong Yang<br>
-    <a href="https://doi.org/10.1021/acscatal.4c01020"><em>ACS Catal.</em> <strong>2024</strong>, 14, 7506–7513</a>
-  </li>
-  <li>
-    <em>Construction of an Electron Capture and Transfer Center for Highly Efficient and Selective Solar-Light-Driven CO<sub>2</sub> Conversion</em><br>
+<em>Construction of an Electron Capture and Transfer Center for Highly Efficient and Selective Solar-Light-Driven CO<sub>2</sub> Conversion</em><br>
     Wangzhong Tang<sup>#</sup>, <strong>Heng Cao</strong><sup>#*</sup>, Peiyu Ma<sup>#</sup>, Tao Ding, SiShi Huang, Jiajun Wang<sup>*</sup>, Qunxiang Li<sup>*</sup>, Xiaoliang Xu<sup>*</sup>, Jinlong Yang<br>
     <a href="https://doi.org/10.1021/acs.nanolett.4c01064"><em>Nano Lett.</em> <strong>2024</strong>, 24(17), 5317–5323</a>
   </li>
@@ -80,6 +26,11 @@ ol.publication-list > li::marker {
     <em>Chemisorption-mediated ultrafast charge transfer at the CO<sub>2</sub> photoreduction interface</em><br>
     Mengyue Ma, Renli Chen, Jiawei Xue<sup>*</sup>, Ruyang Wang, Jiaxiang Zhang, <strong>Heng Cao</strong>, Qun Zhang<sup>*</sup>, Jun Bao<br>
     <a href="https://doi.org/10.1039/D6CC05400E"><em>Chemical Communications</em> <strong>2026</strong>, 62(79), 19813–19817</a>
+  </li>
+  <li>
+    Site-Dependent Hydrogen Adsorption of Pt Single Atoms for Ampere-Level Alkaline Hydrogen Evolution<br>
+    Peiyu Ma<sup>#</sup>, Jilong Xu<sup>#</sup>, Qi Hao<sup>#</sup>, Ji Li, <strong>Heng Cao</strong>, Haihua Luo, Keran Zhu, Erhao Peng, Chuanyi Jia<sup>*</sup>, Yifan Ye<sup>*</sup>, Huihuang Chen<sup>*</sup>, Jun Bao<sup>*</sup><br>
+    <a href="https://doi.org/10.1002/anie.5990615" target="_blank" rel="noopener noreferrer"><em>Angew. Chem. Int. Ed.</em> <strong>2026</strong>, 65(28), e5990615</a>
   </li>
   <li>
     <em>Co<sub>3</sub>O<sub>4</sub> as full-solar-spectrum photocatalyst for selective methane conversion through reactive oxygen species control</em><br>
