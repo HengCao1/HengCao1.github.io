@@ -6,7 +6,7 @@ description: 操亨，中国科学技术大学国家同步辐射实验室副研�
 ---
 
 <div class="chinese-text" lang="zh-CN">
-  <h1 class="chinese-text">操亨</h1>
+<img src="images/HengCao1MB.jpg" class="floatpic" width="448" height="448">
 
   <p>感谢您的阅读。我是中国科学技术大学特任副研究员，在<a href="https://ecic.ustc.edu.cn/main.htm" target="_blank" rel="noopener noreferrer">鲍骏研究员</a>课题组开展工作。我关注催化剂在反应时的真实状态，利用原位与工况谱学跟踪催化剂表面结构和化学状态的变化，研究这些变化如何影响反应中间体的形成。</p>
 
