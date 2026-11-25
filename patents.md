@@ -17,11 +17,14 @@ ol.patent-list > li {
 ol.patent-list > li::marker {
   font-weight: bold;
 }
+  ol.patent-list > li:not(:last-child) {
+  margin-bottom: calc(1em + 1lh);
+}
 </style>
 
 <h2>Patents</h2>
 
-<ol class="patent-list" type="1" reversed>
+<ol class="patent-list chinese-text" lang="zh-CN" type="1" reversed>
   <li>
     发明人：马沛宇、王敏惠、<strong>操亨</strong>、魏宇学、鲍骏、孙松<br>
     申请人：安徽大学、中国科学技术大学、合肥垒行科技有限公司<br>
