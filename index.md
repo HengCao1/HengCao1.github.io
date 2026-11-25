@@ -5,9 +5,7 @@ layout: page
 
 <img src="images/HengCao1MB.jpg" class="floatpic" width="448" height="448">
 
-Here is **Heng Cao (<span class="chinese-text">操亨</span>)**.
-
-My research interests foucs on the reaction mechanism investigation of  **photocatalytic oxidative coupling of methane (OCM)** and **CO<sub>2</sub> photoreduction (CO<sub>2</sub>RR)** by advanced techniques like *in situ* XAFS and SFGS. Currently, I am working as an associate research fellow in the **National Synchrontron Radiation Lab** (NSRL) at University of Science and Technology of China, cooperate with [Prof. Jun Bao](http://team.ustc.edu.cn/Baogroup/zh_CN/).
+I am an Associate Research Fellow at the National Synchrotron Radiation Laboratory (NSRL) at the University of Science and Technology of China (USTC). I use *in situ* and *operando* spectroscopy to investigate how the structure and chemistry of catalyst surfaces evolve under reaction conditions. At USTC, I work with [Prof. Jun Bao](https://ecic.ustc.edu.cn/main.htm).
 
 <br>
 
@@ -23,10 +21,9 @@ My research interests foucs on the reaction mechanism investigation of  **photoc
 
 ## Research Interests
 
-- CO<sub>2</sub> photoreduction/CH<sub>4</sub> photooxidation reaction mechanism investigation
-- Synchrontron Radiation/Free Electron Laser based Charaterizations
-
-My current research focuses on the **reaction mechanism investigation** of **CO<sub>2</sub> photoreduction** or **CH<sub>4</sub> photooxidation** via advanced charaterizations, especially Synchrontron Radiation based (sXAS, XAFS, SRPES, DRIFTS, SVUV-PIMS) and Free Electron Laser based (SFG, nano-IR) techonologies. <br>
+- **Synchrotron and Free-Electron Laser Spectroscopy.** I use soft X-ray absorption spectroscopy (sXAS) and synchrotron radiation photoelectron spectroscopy (SRPES) to probe the electronic structure and surface chemistry of catalysts. I use synchrotron vacuum-ultraviolet photoionization mass spectrometry (SVUV-PIMS) to detect gas-phase species. My interests in infrared free-electron laser spectroscopy include vibrational sum-frequency generation (SFG) spectroscopy and nanoscale infrared spectroscopy (nano-IR).
+- **Absorption Spectroscopy from the Infrared to X-rays.** My expertise includes infrared absorption spectroscopy, particularly diffuse reflectance infrared Fourier transform spectroscopy (DRIFTS), as well as femtosecond transient absorption spectroscopy (fs-TAS) and X-ray absorption fine structure (XAFS) spectroscopy. I use these techniques to identify surface intermediates, track charge-carrier dynamics, and characterize the local structure of catalytic sites.
+- **Mechanisms of Gas–Solid Catalytic Reactions.** I study how active-site structure, interfacial charge transfer, and reaction intermediates influence reaction pathways and product selectivity. My research covers photocatalytic CO₂ reduction, light-driven oxidative coupling of methane (OCM), and thermocatalytic oxidative dehydrogenation of propane (ODHP).
 
 ---
 
