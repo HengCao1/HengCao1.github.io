@@ -6,10 +6,7 @@ layout: page
 <img src="images/HengCao1MB.jpg" class="floatpic" width="448" height="448">
 
 I am an Associate Research Fellow at the National Synchrotron Radiation Laboratory (NSRL) at the University of Science and Technology of China (USTC). I use *in situ* and *operando* spectroscopy to investigate how the structure and chemistry of catalyst surfaces evolve under reaction conditions. At USTC, I work with [Prof. Jun Bao](https://ecic.ustc.edu.cn/main.htm).
-<div>
-  <img src="https://hits.sh/hengcao1.github.io/index.html.svg?label=Homepage%20views&amp;color=555555"
-       alt="Homepage views">
-</div>
+
 <br>
 
 ## Academic Background
@@ -31,3 +28,9 @@ I am an Associate Research Fellow at the National Synchrotron Radiation Laborato
 ---
 
 ## News and Updates
+
+
+<div>
+  <img src="https://hits.sh/hengcao1.github.io/index.html.svg?label=Homepage%20views&amp;color=555555"
+       alt="Homepage views">
+</div>
