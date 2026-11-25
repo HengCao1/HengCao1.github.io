@@ -17,9 +17,7 @@ ol.patent-list > li {
 ol.patent-list > li::marker {
   font-weight: bold;
 }
-  ol.patent-list > li:not(:last-child) {
-  margin-bottom: calc(1em + 1lh);
-}
+
 </style>
 
 <h2>Patents</h2>
