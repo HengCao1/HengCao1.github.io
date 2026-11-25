@@ -399,3 +399,6 @@ ol.publication-list > li > em:first-child {
     width: min(60%, 1150px);
   }
 }
+html {
+  scrollbar-gutter: stable;
+}
