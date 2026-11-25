@@ -402,3 +402,23 @@ ol.publication-list > li > em:first-child {
 html {
   scrollbar-gutter: stable;
 }
+/* 页面至少和浏览器窗口一样高 */
+body.page {
+  min-height: 100vh;
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* 保留当前导航栏与正文之间的间距 */
+body.page > .navigation-wrapper {
+  box-sizing: border-box;
+  min-height: 6em;
+  padding-bottom: 0;
+}
+
+/* 正文较短时，自动填满页脚上方的空白 */
+body.page > #main {
+  flex-grow: 1;
+  margin-top: 0;
+}
