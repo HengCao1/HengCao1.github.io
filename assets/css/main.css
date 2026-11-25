@@ -422,3 +422,25 @@ body.page > #main {
   flex-grow: 1;
   margin-top: 0;
 }
+.top-navigation ul {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.45rem 1.25rem;
+}
+
+.top-navigation li {
+  margin-right: 0;
+}
+
+.top-navigation li a {
+  display: inline-block;
+  padding-block: 0.2em;
+  white-space: nowrap;
+}
+
+@media screen and (min-width: 48em) {
+  .top-navigation ul {
+    column-gap: 34px;
+  }
+}
