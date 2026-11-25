@@ -37,6 +37,8 @@ links:
     url: /awards/
   - title: Fundings
     url: /fundings/
+  - title: 中文
+    url: /zh/
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
