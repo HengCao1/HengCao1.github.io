@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-# About Me
+# Main
 
 <img src="images/HengCao1MB.jpg" class="floatpic" width="448" height="448">
 
