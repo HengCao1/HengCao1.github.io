@@ -6,9 +6,9 @@ description: 操亨，中国科学技术大学国家同步辐射实验室副研�
 ---
 
 <div class="chinese-text" lang="zh-CN">
-<img src="images/HengCao1MB.jpg" class="floatpic" width="448" height="448">
+  <h1 class="chinese-text">操亨</h1>
 
-  <p>感谢您的阅读。我是中国科学技术大学特任副研究员，在<a href="https://ecic.ustc.edu.cn/main.htm" target="_blank" rel="noopener noreferrer">鲍骏研究员</a>课题组开展工作。我关注催化剂在反应时的真实状态，利用原位与工况谱学跟踪催化剂表面结构和化学状态的变化，研究这些变化如何影响反应中间体的形成。</p>
+  <p>感谢您的阅读。我是操亨，现任中国科学技术大学特任副研究员，在<a href="https://ecic.ustc.edu.cn/main.htm" target="_blank" rel="noopener noreferrer">鲍骏研究员</a>课题组开展工作。我关注催化剂在反应时的真实状态，利用原位与工况谱学跟踪催化剂表面结构和化学状态的变化，研究这些变化如何影响反应中间体的形成。</p>
 
   <h2 class="chinese-text">研究方向</h2>
 
@@ -18,9 +18,10 @@ description: 操亨，中国科学技术大学国家同步辐射实验室副研�
 
   <p><strong>气固催化反应机理。</strong>我研究活性位点的结构、界面电荷转移和反应中间体如何影响反应路径与产物选择性，涉及的反应包括二氧化碳光催化还原、光驱动甲烷氧化偶联（OCM）和丙烷热催化氧化脱氢（ODHP）。</p>
 
-  <h2 class="chinese-text">教育经历</h2>
+  <h2 class="chinese-text">教育与工作经历</h2>
 
   <ul>
+    <li>2023 年 7 月至           今，中国科学技术大学，博士后、特任副研究员。</li>
     <li>2018 年 9 月至 2023 年 6 月，中国科学技术大学，核科学与技术专业，博士。</li>
     <li>2014 年 9 月至 2018 年 6 月，中国地质大学，应用化学专业，学士。</li>
   </ul>
