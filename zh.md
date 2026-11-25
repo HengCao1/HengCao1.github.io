@@ -37,7 +37,7 @@ description: 操亨，中国科学技术大学国家同步辐射实验室副研�
 </style>
 
 <div class="zh-profile chinese-text" lang="zh-CN">
-  <h1 class="chinese-text">关于我</h1>
+<h1 class="chinese-text" style="margin-bottom: 1.65rem;">关于我</h1>
 
   <img class="floatpic"
        src="https://hengcao1.github.io/images/HengCao1MB.jpg"
