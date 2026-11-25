@@ -5,7 +5,7 @@ layout: page
 
 <img src="images/HengCao1MB.jpg" class="floatpic" width="448" height="448">
 
-Here is **Heng Cao (操亨)**.
+Here is **Heng Cao (<span class="chinese-text">操亨</span>)**.
 
 My research interests foucs on the reaction mechanism investigation of  **photocatalytic oxidative coupling of methane (OCM)** and **CO<sub>2</sub> photoreduction (CO<sub>2</sub>RR)** by advanced techniques like *in situ* XAFS and SFGS. Currently, I am working as an associate research fellow in the **National Synchrontron Radiation Lab** (NSRL) at University of Science and Technology of China, cooperate with [Prof. Jun Bao](http://team.ustc.edu.cn/Baogroup/zh_CN/).
 
